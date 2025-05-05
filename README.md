@@ -44,9 +44,9 @@ This repository contains an exploratory data analysis project on the public Braz
 
 3. **Run the analysis**
 
-```bash
-jupyter notebook olist_eda.ipynb
-```
+   ```bash
+   jupyter notebook olist_eda.ipynb
+   ```
 
 4. **View results**
 
